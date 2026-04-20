@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PyQt5; import yfinance; import pandas; import numpy; import matplotlib; print\\('All packages OK'\\)\")",
+      "Bash(python -c ' *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\Wayne\\Desktop\\stock_return"
+    ]
+  }
+}
